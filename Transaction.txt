@@ -1,0 +1,22 @@
+Wed Feb 08 13:16:38 AEDT 2017         QJT123 sent to service
+Wed Feb 08 13:17:08 AEDT 2017         QJT123 returned from service
+Wed Feb 08 13:18:01 AEDT 2017         QJT123 hired by Lab123 odometer120000
+Wed Feb 08 13:19:05 AEDT 2017         QJT123 returned odomter1300000
+Wed Feb 08 13:19:38 AEDT 2017         QJT123 hired by Lab123 odometer1000
+Wed Feb 08 13:19:51 AEDT 2017         QJT123 returned odomter120000
+Wed Feb 08 14:09:17 AEDT 2017         QJT123 hired by Lab123 odometer1000
+Wed Feb 08 14:10:06 AEDT 2017         QJT123 returned odomter1300000SHA456 hired by Lob123 odometer100000
+SHA456 sent to service
+SHA456 returned from service
+SAG132 hired by Lob123 odometer190000
+Pre321 hired by Lob123 odometer10000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
+kkk123 hired by Lob123 odometer120000
